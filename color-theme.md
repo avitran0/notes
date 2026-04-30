@@ -1,6 +1,7 @@
 ---
 title: Color Theme
 date: 2026-04-29
+updated: 2026-04-30
 tags: [misc]
 ---
 
@@ -8,10 +9,10 @@ My own personal color scheme, as i use it in VS Code and this website.
 
 | name      | rgb           | hex      | color                              |
 | --------- | ------------- | -------- | ---------------------------------- |
-| backdrop  | 15, 15, 20    | \#0f0f14 | <font color="#0f0f14">█████</font> |
-| base      | 24, 24, 32    | \#181820 | <font color="#181820">█████</font> |
-| highlight | 58, 58, 70    | \#3a3a4c | <font color="#3a3a4c">█████</font> |
-| subtext   | 180, 180, 180 | \#b4b4b4 | <font color="#b4b4b4">█████</font> |
+| backdrop  | 24, 24, 28    | \#18181c | <font color="#18181c">█████</font> |
+| base      | 35, 35, 40    | \#232328 | <font color="#232328">█████</font> |
+| highlight | 50, 50, 60    | \#32323c | <font color="#32323c">█████</font> |
+| subtext   | 140, 140, 140 | \#8c8c8c | <font color="#8c8c8c">█████</font> |
 | text      | 255, 255, 255 | \#ffffff | <font color="#ffffff">█████</font> |
 | red       | 240, 100, 100 | \#f06464 | <font color="#f06464">█████</font> |
 | orange    | 240, 140, 90  | \#f08c5a | <font color="#f08c5a">█████</font> |
