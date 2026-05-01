@@ -2,6 +2,7 @@
 title: Color Scheme
 date: 2026-04-29
 updated: 2026-04-30
+tags: [setup]
 ---
 
 My own personal color scheme, as i use it in VS Code and this website.
