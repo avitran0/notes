@@ -1,8 +1,7 @@
 ---
-title: Color Theme
+title: Color Scheme
 date: 2026-04-29
 updated: 2026-04-30
-tags: [misc]
 ---
 
 My own personal color scheme, as i use it in VS Code and this website.
@@ -10,7 +9,7 @@ My own personal color scheme, as i use it in VS Code and this website.
 | name      | rgb           | hex      | color                                     |
 | --------- | ------------- | -------- | ----------------------------------------- |
 | backdrop  | 24, 24, 28    | \#18181c | <span style="color: #18181c">█████</span> |
-| base      | 35, 35, 40    | \#232328 | <span style="color: #232328">█████</span> |
+| base      | 30, 30, 35    | \#1e1e23 | <span style="color: #1e1e23">█████</span> |
 | highlight | 50, 50, 60    | \#32323c | <span style="color: #32323c">█████</span> |
 | subtext   | 140, 140, 140 | \#8c8c8c | <span style="color: #8c8c8c">█████</span> |
 | text      | 255, 255, 255 | \#ffffff | <span style="color: #ffffff">█████</span> |
